@@ -1,0 +1,339 @@
+Forge 1.20.1
+
+---Libraries--- :
+Structure Gel API
+Terrablender
+GeckoLib
+Citadel
+Zeta
+Appleskin
+
+---Optimizations--- :
+Embeddium
+Fast Paintings
+Farsight
+
+---Graphics, visuals, icons--- :
+Foliage+
+Spryzeen's Bushy warts
+Ore Variants
+Monster Diversity Pack
+Max's Better Mobs
+Colorful Coral
+Door Tweaks
+Unique Discs!
+Wavey Capes
+Eating Animation
+Shrimp's Distinct Potions
+Better Chainmail
+Better Maps
+Rain Revamp
+
+---Sound--- : 
+Sound Physics Remastered
+
+---Additional Dimensions--- :
++ The Twilight Forest 4.3.2508 - 148.5M, + JAPPA textures, + The Lost Blocks, + Farmer's Cutting: Twilight Forest, + Bosses Resurrection, + Twilight Delight?, + Artifacts compat <-- Twilight Forest no OptiFine support
+
++ Deeper and Darker 1.3.3 - 42.3M, + Deeper and Darker Delight
+
++ Blue Skies 1.3.31 - 48.1M, + Create Blue Skies Compat, + Blue Skies Tinkers Compat?, + Blue Skies Delight
+
++ The Undergarden - 25.2M, + Undergarden Delight, + Undergarden Paths, + Undergarden Artifacts, + Undergarden Botany Pots Compat
+
++ The Aether 1.5.2 - 40.6M, + Redux, + Lost Content Addon, + Deep Aether 1.1.4, + Enhanced Extinguishing, + Farmer's Cutting: The Aether
+
+---World Gen--- :
++ Biomes O' Plenty 19.0.0.94 - 150M, + Biomes o' Plenty x Farmer's Delight, + Macaw's Biomes O' Plenty, + Farmer's Cutting: Biomes O' Plenty, + Biomes O' Plenty Delight, + Storage Drawers: Biomes O' Plenty Pack?, + Biomes O' Plenty and Create Rose Quartz Compat, + More Chests Variants - Biomes O' Plenty 
++ Geophilic Reforged - 5.8M
++ Windswept! ? - 1.0M
++ Serene Seasons - 64.7M, + Serene Seasons Delight
++ The Graveyard - 31.9M, + Graveyard Delight, + Loot Integrations: The Graveyard
++ Deeper Oceans - 355K
++ Nyctophobia - 7.6M
++ Upgrade Aquatic - 31.6M
++ Galosphere 1.4.1 - 12.2M, + Galosphere Trimming
+
++ Eldritch End 0.3.3 - 9.7M, + Eldritch End - Farmer's Delight
+
++ Quark 4.0 - 172M, + Quark Oddities, Ascended Quark, + Quark Delight, + Quark x Farmer's Delight Bark Cutting Compat, + Curios Quark Oddities Backpack, + Quark Artifacts
+
+---Structures--- :
++ Repurposed Structures 7.1.15 - 74.6M, + Bountiful Compat Datapack, + Farmer's Delight Compat Mod, + Friends and Foes Compat Datapack, + VillagersPlus Compat Datapack, + More Villagers Compat Datapack, + Wizards Compat Datapack, + Gazebo Compat Datapack, + Paladins & Preists Compat Datapack
++ Dungeon Crawl - 54.4M
+Formations Overworld - 6.5M
+Moog's Voyager Structures - 13.9M
+Explorify - Dungeons & Structures - 22.2M
+Explorations - 12.2M
+Galosphere - 12.2M
+Upgrade Aquatic - 29.1M
+The Lost Castle - 12.9M
+Born in Chaos - 7.2M
+The Graveyard - 27.9M
+Farmers Structures - 4.0M
+Hunter's Return - 22.8M
+Antlers - The Wendigo - 488K
+
+Better Villages - 16.6M
+Towns and Towers - 35.2M
+ChoiceTheorem's Overhauled Village - 28M
+Dungeons and Taverns - 13M
+Savage & Ravage - 26.1M
+
+Formations Nether - 8.3M
+Nether Depths Upgrade - 13M
+Stalwart Dungeons - 23.7M
+
+YUNG's Better Dungeons
+YUNG's Better Mineshafts
+YUNG's Better Strongholds
+YUNG's Extras
+YUNG's Bridges
+YUNG's Better Ocean Monuments
+YUNG's Better Witch Huts
+YUNG's Better Desert Temples
+YUNG's Better Jungle Temples
+
+---Villagers, NPC--- :
+Guard Villagers - 45.7M
+More Villagers - 24.8M
+VillagersPlus - 16.1M
+Liberty's Villagers - 4.2M
+Easy Villagers - 27.6M
+More Villager Trades - 2.1M
+Village Artifacts - 21.2M
+Goblin Traders
+Hunter's Return - 22.8M
+
+---Mobs--- :
+Alex's Mobs - 77M, Alex's Mobs Interaction, Alex's Tamables, Mobs of Sins: Alex's Mobs Integration
+Born in Chaos - 7.2M
+Monster Plus - 6.3M
+Whisperwoods - 7.5M
+Friends & Foes - 15.6M
+Critters and Companions - 5.0M
+Antlers - The Wendigo - 488K
+Realm RPG: Sea Dwellers - 2.6M
+Realm RPG: Imps & Demons - 1.2M
+Rats - 17.8M
+Creeper Overhaul - 38.2M
+Enderman Overhaul - 10.8M
+Vanilla Expanded - Orcz - 5.6M
+Sons Of Sins - 6.6M, Sons of Sins: Organ Museum
+More Mob Variants ?
+The Graveyard - 27.9M
++ Thalassophobia - 43.6K
+Upgrade Aquatic - 29.1M
+Autumnity - 13.1M
+Galosphere - 12.2M
+Alex's Caves - 6.0M
+Caverns & Chasms 62K
+Zombie Horse Spawn
+
+---Gameplay--- :
+Quark - 172M
+Tough As Nails - 20.7M
+Nature's Compass
+Explorer's Compass
++ Hourglass - 2.7M
+Cosmetic Armor Reworked
+Waystones
+Bountiful
+MmmMmmMmmMmm (Target Dummy)
+Sophisticated Backpacks, Lopy's Create Style Sophisticated Backpacks
+Cognition
+Paragliders
+Boatload
+Chest Transporter
+Berry Good - 4.6M
+Incubation - 6.5M
+Boatload - 12.3M
+
+Better Combat, Better Combat x Apotheosis Compat
+Personality - 16.5M
+Combat Roll
+Wizards (RPG Series)
+Archers (RPG Series)
+Rogues & Warriors (RPG Series)
+Paladins & Priests (RPG Series)
+Jewelry (RPG Series)
+Death Knights (RPG Series)
+The Hordes
+We Got Runners!
+Zombie Horse Spawn
+Enhanced Celestials
+
+Building Gadgets
+
+---Items--- :
+Farmer's Delight, Twilight Forest - Farmer's Delight, Nether's Delight, Deeper and Darker Delight, Blue Skies Delight, Farmer's Cutting: Biomes O' Plenty
+Expanded Delight, Galosphere Delight, Alex's Caves Delight, Graveyard Delight, Rats Delight, Born in Chaos Delight, Miner's Delight, Gobber Delight, Blood Magic Delight, Abnormals Delight, Biomes o' Plenty x Farmer's Delight, Thermal's Delight
+
+Farmer's Respite - 17.7M, Respite Creators
+
+Village Artifacts - 21.2M
+Mystical Oak Tree
+Corail Woodcutter
+Alchemistry
+Aquaculture 2
+Silent Gear
+Cyclic
+Forbidden and Arcanus
+Reliquary Reincarnations
+EvilCraft
+
+---Ores--- :
+Geode+, Geode O' Plenty
+More Geodes Reforged
+The Salt
+Advanced Netherite
+Immersive Ores
+Nether Ores Plus+ 
+Ores Above Diamonds
+Rhodonite - Tools & Armour
+Gobber
+Potassium & Sulfur's Gunpowder Mod
+Galosphere - 12.2M - Allurite shard, Lumiere shard, Silver Ingot
+
+---Magic--- :
+Ars Nouveau - 64.3M, Ars Elemental, Ars Ocultas, Ars Creo, Ars Additions, Ars Omega, Tome of Blood
+Apotheosis, Apotheotic Additions
+Occultism
+Blood Magic
+Hexerei
+Botania
+
+---Weapons, Armor--- :
+Simply Swords
+Spartan Weaponry, Spartan Weaponry: Twilight Forest, Spartan Weaponry: Blue Skies, Spartan Weaponry: Undergarden
+Immersive Armors
+Spartan Shields
+Shield Expansion
+MC Dungeons Weapons
+Expanded Combat?
+Fantasy Weapons (Medieval Series)
+Born in Chaos - 7.2M
+Galosphere - 12.2M
+
+---Decor--- :
+Twigs
+Chipped
+Chisel Chipped Integration
+Rechiseled
+Rechiseled: Chipped
+Rechiseled: Fans
+Rechiseled: AE2
+Rechiseled: Create
+Variant Chiseled Bookshelves
+Chisels & Bits
+Additional Placements
+Abundant Atmosphere?
+
+Macaw's Bridges
+Macaw's Bridges - Biomes O' Plenty
+Macaw's Doors
+Macaw's Fences and Walls
+Macaw's Fences - Biomes O' Plenty
+Macaw's Windows
+Macaw's Trapdoors
+Macaw's Roofs
+Macaw's Roofs - - Biomes O' Plenty
+Macaw's Lights and Lamps
+Macaw's Paths and Pavings
+Macaw's Quark
+
+Supplementaries
+Supplementaries Squared
+Handcrafted
+Beautify!
+Decorative Blocks
+Decoration Delight: Refurbished
+Sophisticated Storage
+Woodworks - 5.5M
+Clayworks - 5.0M
+Storage Drawers, 
+Re:Deco
+More Chests Variants,
+More Furnaces Variants
+BiblioCraft, BiblioCraft: BiblioWoods Biomes O'Plenty Edition
+Quark - 172M
+Caverns & Chasms - 62K
+
+Storage Labels
+Advancement Frames
+Amendments
+Botany Pots
+Botany Trees
+
+Dark Paintings
+Leon's Dungeons Paintings
+MC style paintings
+Paintings ++
+Cycle Paintings
+
+---Clothes--- :
+Simple Hats
+Artifacts
+Lucky’s Wardrobe Mod
+ 
+---UI, UX--- :
+Better Advancements
+Controlling
+Jade
+Mouse Tweaks - 277M
+Not Enough Animations
+Villager Names
+Better Third Person
+Enchantment Descriptions
+Just Enough Items, Just Enough Resources, Just Enough Professions, JEI Villagers
+Xaero's Minimap
+Xaero's World Map
+Searchables
+Pick Up Notifier
+Villager Names
+Runelic
+Day Counter
+
+---Technologies--- :
+Create - 117.9M, 
+Create Stuff & Additions - 14.4M, 
+Create Crafts & Additions  - 56.2M, 
+Create: New Age - 10.4M,
+Create: Dreams & Desires - 1.6M,
+Create : Misc & Things - 5.2M,
+Create: Steam Powered - 1.7M,
+Create: Connected - 3.0M,
+Create: Extended Cogwheels - 4.1M, 
+Create Blue Skies Compat - 1.5M, 
+Create: Ultimate Factory - 366,4K, 
+Create: Aquatic Ambitions - 63.4K,
+Create Recycle Everything - 3.8M,
+Create: Fishing Bobber Detector - 1.0M,
+Create : Teleporters - 2.6M,
+Create: Vintage Improvements - 728.6K,
+Create: Oxidized - 604.8K,
+Create: Alloyed - 3.1M,
+Create Encased - 2.5M, 
+Create Deco - 19.6M,
+Create: Crystal Clear - 4.7M,
+Create: Framed - 1.6M,
+Create: Dynamic Village - 2.5M ,
+
+Thermal Foundation - 147.0M,
+Thermal Cultivation - 69.6M,
+Thermal Dynamics - 102.3M,
+Thermal Expansion - 134.6M,
+Thermal Innovation - 81.0M,
+Thermal Integration - 16.0M,
+Thermal Locomotion - 28.0M,
+Thermal Extra - 11.0M,
+Thermal Systeams - 4.2M,
+Thermal Tinkering - 1.5M
+
+Immersive Engineering - 147.5M, Immersive Engineering Artifacts
+
+Tinkers Construct - 167.3M,
+
+Alchemistry - 19.9M,
+
+Refined Storage - 111.7M,
