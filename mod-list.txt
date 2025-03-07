@@ -3,11 +3,13 @@ Forge 1.20.1
 ---Libraries--- :
 Structure Gel API
 Terrablender
-GeckoLib
+GeckoLib 3.0 +!
 Citadel
 Zeta
 Appleskin
 Cristel Lib
+Bagus Lib
++ YUNG's API (Forge)
 
 ---Optimizations--- :
 Embeddium
@@ -72,8 +74,8 @@ Sound Physics Remastered
 + Born in Chaos - 10.8M
 + The Graveyard - 27.9M
 + Farmers Structures - 5.0M
-Hunter's Return - 22.8M
-Antlers - The Wendigo - 488K
++ Hunter's Return - 25.0M
++ Antlers - The Wendigo - 680K
 
 Better Villages - 16.6M
 Towns and Towers - 35.2M
@@ -81,19 +83,19 @@ ChoiceTheorem's Overhauled Village - 28M
 Dungeons and Taverns - 13M
 Savage & Ravage - 26.1M
 
-Formations Nether - 8.3M
-Nether Depths Upgrade - 13M
-Stalwart Dungeons - 23.7M
++ Formations Nether - 13.7M
++ Nether Depths Upgrade - 15.7M
++ Stalwart Dungeons - 27.4M, + Stalwart Dungeons Delight
 
-YUNG's Better Dungeons
-YUNG's Better Mineshafts
-YUNG's Better Strongholds
-YUNG's Extras
-YUNG's Bridges
-YUNG's Better Ocean Monuments
-YUNG's Better Witch Huts
-YUNG's Better Desert Temples
-YUNG's Better Jungle Temples
++ YUNG's Better Dungeons - 95.2M
++ YUNG's Better Mineshafts - 127.6M
++ YUNG's Better Strongholds - 92.1M
++ YUNG's Better Jungle Temples - 38.9M
++ YUNG's Better Desert Temples - 51.8M
++ YUNG's Better Ocean Monuments - 63.4M
++ YUNG's Better Witch Huts - 54.7M
++ YUNG's Bridges - 57.9M
++ YUNG's Extras - 54.3M
 
 ---Villagers, NPC--- :
 Guard Villagers - 45.7M
@@ -103,6 +105,7 @@ Liberty's Villagers - 4.2M
 Easy Villagers - 27.6M
 More Villager Trades - 2.1M
 Village Artifacts - 21.2M
+
 Goblin Traders
 Hunter's Return - 22.8M
 
@@ -127,7 +130,6 @@ The Graveyard - 27.9M
 Upgrade Aquatic - 29.1M
 Autumnity - 13.1M
 Galosphere - 12.2M
-Alex's Caves - 6.0M
 Caverns & Chasms 62K
 Zombie Horse Spawn
 
