@@ -7,6 +7,7 @@ GeckoLib
 Citadel
 Zeta
 Appleskin
+Cristel Lib
 
 ---Optimizations--- :
 Embeddium
@@ -61,16 +62,16 @@ Sound Physics Remastered
 ---Structures--- :
 + Repurposed Structures 7.1.15 - 74.6M, + Bountiful Compat Datapack, + Farmer's Delight Compat Mod, + Friends and Foes Compat Datapack, + VillagersPlus Compat Datapack, + More Villagers Compat Datapack, + Wizards Compat Datapack, + Gazebo Compat Datapack, + Paladins & Preists Compat Datapack
 + Dungeon Crawl - 54.4M
-Formations Overworld - 6.5M
-Moog's Voyager Structures - 13.9M
-Explorify - Dungeons & Structures - 22.2M
-Explorations - 12.2M
-Galosphere - 12.2M
-Upgrade Aquatic - 29.1M
-The Lost Castle - 12.9M
-Born in Chaos - 7.2M
-The Graveyard - 27.9M
-Farmers Structures - 4.0M
++ Formations Overworld - 11.3M
++ Moog's Voyager Structures - 21.8M
++ Explorify - Dungeons & Structures - 29.4M
++ Explorations - 15.7M
++ Galosphere - 12.2M
++ Upgrade Aquatic - 29.1M
++ The Lost Castle - 16.3M
++ Born in Chaos - 10.8M
++ The Graveyard - 27.9M
++ Farmers Structures - 5.0M
 Hunter's Return - 22.8M
 Antlers - The Wendigo - 488K
 
@@ -107,7 +108,7 @@ Hunter's Return - 22.8M
 
 ---Mobs--- :
 Alex's Mobs - 77M, Alex's Mobs Interaction, Alex's Tamables, Mobs of Sins: Alex's Mobs Integration
-Born in Chaos - 7.2M
++ Born in Chaos - 7.2M, + Born in Configuration, Born In Chaos Delight, Born in Chaos: Forgotten Content
 Monster Plus - 6.3M
 Whisperwoods - 7.5M
 Friends & Foes - 15.6M
@@ -148,6 +149,10 @@ Chest Transporter
 Berry Good - 4.6M
 Incubation - 6.5M
 Boatload - 12.3M
+Loot Integrations - 33.9M
++ Bad Mobs - 36.7M
++ In Control! - 79.5M
++ Spawn Balance Utility - 3.4M
 
 Better Combat, Better Combat x Apotheosis Compat
 Personality - 16.5M
