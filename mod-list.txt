@@ -9,6 +9,7 @@ Zeta
 Appleskin
 Lithostitched
 Cristel Lib
+Curios API
 Bagus Lib
 Blueprint
 + YUNG's API (Forge)
@@ -24,6 +25,7 @@ Spryzeen's Bushy warts
 Ore Variants
 Monster Diversity Pack
 Max's Better Mobs
++ More Mob Variants 1.3.0.1 - 12.1M
 Colorful Coral
 Door Tweaks
 Unique Discs!
@@ -78,6 +80,7 @@ Sound Physics Remastered
 + Farmers Structures - 5.0M
 + Hunter's Return - 25.0M
 + Antlers - The Wendigo - 680K
++ Realm RPG: Sea Dwellers 2.9.9 - 3.2M
 
 + Towns and Towers - 45.6M - только добавляет новые структуры
 + ChoiceTheorem's Overhauled Village 3.4.12 - 35.0M - только добавляет новые структуры
@@ -109,29 +112,26 @@ Village Artifacts - 21.2M
 
 Goblin Traders
 Hunter's Return - 22.8M
++ Realm RPG: Quests & Rewards - 832K
 
 ---Мобы--- :
-Alex's Mobs - 77M, Alex's Mobs Interaction, Alex's Tamables, Mobs of Sins: Alex's Mobs Integration
-+ Born in Chaos - 7.2M, + Born in Configuration, Born In Chaos Delight, Born in Chaos: Forgotten Content
-Monster Plus - 6.3M
-Whisperwoods - 7.5M
-Friends & Foes - 15.6M
-Critters and Companions - 5.0M
-Antlers - The Wendigo - 488K
-Realm RPG: Sea Dwellers - 2.6M
-Realm RPG: Imps & Demons - 1.2M
-Rats - 17.8M
-Creeper Overhaul - 38.2M
-Enderman Overhaul - 10.8M
-Vanilla Expanded - Orcz - 5.6M
-Sons Of Sins - 6.6M, Sons of Sins: Organ Museum
-More Mob Variants ?
-The Graveyard - 27.9M
++ Alex's Mobs 1.22.9 - 91.7M, + Alex's Mobs Interaction 5.0, + Mobs of Sins: Alex's Mobs Integration 0.2
++ Born in Chaos 1.6.3 - 7.2M, + Born in Configuration, Born In Chaos Delight, Born in Chaos: Forgotten Content
++ Monster Plus 1.1.6.1 - 7.7M
++ Friends & Foes 3.0.7 - 20.7M, + Flowery Mooblooms 2.0.2, + Beekeeper Hut 2.0.1, + Friends&Foes Delight 2.0.2.1
++ Critters and Companions 2.2.2 - 7.6M
++ Antlers - The Wendigo 1.0.0 - 488K
++ Realm RPG: Sea Dwellers 2.9.9 - 3.2M
++ Realm RPG: Imps & Demons 0.9.0 - 1.2M
++ Realm RPG: Pots & Mimics 1.0.2 - 2.6M
++ Rats 8.1.3 - 18.8M, + Rats Delight 1.1.0.1
++ Creeper Overhaul 3.0.2 - 46.7M
++ Enderman Overhaul 1.0.4 - 17.2M
++ Sons Of Sins - 8.8M, + Sons of Sins: Organ Museum
++ The Graveyard - 27.9M
 + Thalassophobia - 43.6K
-Upgrade Aquatic - 29.1M
-Autumnity - 13.1M
-Galosphere - 12.2M
-Caverns & Chasms 62K
++ Upgrade Aquatic - 29.1M
++ Galosphere - 12.2M
 Zombie Horse Spawn
 
 ---Геймплей, механики--- :
@@ -236,6 +236,7 @@ Variant Chiseled Bookshelves
 Chisels & Bits
 Additional Placements
 Abundant Atmosphere?
+Consistency+
 
 Macaw's Bridges
 Macaw's Bridges - Biomes O' Plenty
