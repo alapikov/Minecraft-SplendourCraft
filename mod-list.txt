@@ -8,6 +8,8 @@ Citadel
 Zeta
 Appleskin
 Lithostitched
+Patchouli
+CoFH Core
 GlitchCore
 Cristel Lib
 Curios API
@@ -326,18 +328,14 @@ Create: Crystal Clear - 4.7M,
 Create: Framed - 1.6M,
 Create: Dynamic Village - 2.5M ,
 
-Thermal Foundation - 147.0M,
-Thermal Cultivation - 69.6M,
-Thermal Dynamics - 102.3M,
-Thermal Expansion - 134.6M,
-Thermal Innovation - 81.0M,
-Thermal Integration - 16.0M,
-Thermal Locomotion - 28.0M,
-Thermal Extra - 11.0M,
-Thermal Systeams - 4.2M,
-Thermal Tinkering - 1.5M
-
-Immersive Engineering - 147.5M, Immersive Engineering Artifacts
++ Thermal Foundation 11.0.6.70 - 148.4M,
++ Thermal Expansion 11.0.1.29 - 136.0M,
++ Thermal Innovation 11.0.1.23 - 81.0M,
++ Thermal Cultivation 11.0.1.24 - 70.5M,
++ Thermal Dynamics 11.0.1.23 - 103.2M,
++ Thermal Integration 11.0.1.27  - 16.0M - поддержка Create, Farmers Delight, Quark, Refined Storage, Tinkers Construct,
++ Thermal Locomotion 11.0.1.19 - 28.0M,
++ Thermal Systeams 1.9.1 - 4.2M,
 
 Tinkers Construct - 167.3M,
 
