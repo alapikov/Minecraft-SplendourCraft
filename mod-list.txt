@@ -8,6 +8,7 @@ Citadel
 Zeta
 Appleskin
 Lithostitched
+GlitchCore
 Cristel Lib
 Curios API
 Bagus Lib
@@ -52,45 +53,19 @@ Sound Physics Remastered
 
 ---Генерация мира--- :
 + Biomes O' Plenty 19.0.0.94 - 150M, + Biomes o' Plenty x Farmer's Delight, + Macaw's Biomes O' Plenty, + Farmer's Cutting: Biomes O' Plenty, + Biomes O' Plenty Delight, + Storage Drawers: Biomes O' Plenty Pack?, + Biomes O' Plenty and Create Rose Quartz Compat, + More Chests Variants - Biomes O' Plenty 
-+ Geophilic Reforged - 5.8M
-+ Windswept! ? - 1.0M
-+ Serene Seasons - 64.7M, + Serene Seasons Delight
-+ The Graveyard - 31.9M, + Graveyard Delight, + Loot Integrations: The Graveyard
-+ Deeper Oceans - 355K
-+ Nyctophobia - 7.6M
-+ Upgrade Aquatic - 31.6M
-+ Galosphere 1.4.1 - 12.2M, + Galosphere Trimming
++ Geophilic Reforged 1.2.0 - 9.1M - небольшие изменения в генерации вехрнего мира, особенная поддержка Biomes O Plenty, Windswept
++ Windswept! ? 2.2.3 - 1.0M - две новых древесины, новые цветы, два новых биома, предметы, структуры
++ Serene Seasons 9.1.0.0 - 66.4M - механика изменения сезонов, + Serene Seasons Delight
++ The Graveyard - 31.9M - есть конфиг файл, + Graveyard Delight, + Loot Integrations: The Graveyard
++ Nyctophobia 1.6 - 7.6M - 5 новых биомов
++ Upgrade Aquatic - 32.3M - мобы, предметы
++ Galosphere 1.4.1 - 12.2M - новые биомы, новые мобы, предметы, + Galosphere Trimming 1.0.0, + Galosphere Delight
 
-+ Eldritch End 0.3.3 - 9.7M, + Eldritch End - Farmer's Delight
++ Eldritch End 0.3.3 - 10.2M
 
-+ Quark 4.0 - 172M, + Quark Oddities, Ascended Quark, + Quark Delight, + Quark x Farmer's Delight Bark Cutting Compat, + Curios Quark Oddities Backpack, + Quark Artifacts
++ Quark 4.0 - 172M
 
 ---Структуры, постройки--- :
-+ Repurposed Structures 7.1.15 - 74.6M, + Bountiful Compat Datapack, + Farmer's Delight Compat Mod, + Friends and Foes Compat Datapack, + VillagersPlus Compat Datapack, + More Villagers Compat Datapack, + Wizards Compat Datapack, + Gazebo Compat Datapack, + Paladins & Preists Compat Datapack
-+ Dungeon Crawl - 54.4M
-+ Formations Overworld - 11.3M
-+ Moog's Voyager Structures - 21.8M
-+ Explorify - Dungeons & Structures - 29.4M
-+ Explorations - 15.7M
-+ Galosphere - 12.2M
-+ Upgrade Aquatic - 29.1M
-+ The Lost Castle - 16.3M
-+ Born in Chaos - 10.8M
-+ The Graveyard - 27.9M
-+ Farmers Structures - 5.0M
-+ Hunter's Return - 25.0M
-+ Antlers - The Wendigo - 680K
-+ Realm RPG: Sea Dwellers 2.9.9 - 3.2M
-
-+ Towns and Towers - 45.6M - только добавляет новые структуры
-+ ChoiceTheorem's Overhauled Village 3.4.12 - 35.0M - только добавляет новые структуры
-+ Dungeons and Taverns - 15.4M
-+ Savage & Ravage - 28.3M
-
-+ Formations Nether - 13.7M
-+ Nether Depths Upgrade - 15.7M
-+ Stalwart Dungeons - 27.4M, + Stalwart Dungeons Delight
-
 + YUNG's Better Dungeons - 95.2M
 + YUNG's Better Mineshafts - 127.6M
 + YUNG's Better Strongholds - 92.1M
@@ -100,6 +75,31 @@ Sound Physics Remastered
 + YUNG's Better Witch Huts - 54.7M
 + YUNG's Bridges - 57.9M
 + YUNG's Extras - 54.3M
+
++ Repurposed Structures 7.1.15 - 74.6M - не конфликтует с YUNG's структурами, оба мода продолжают спавнить структуры, можно настраивать через датапаки, + Bountiful Compat Datapack, + Farmer's Delight Compat Mod, + Friends and Foes Compat Datapack, + VillagersPlus Compat Datapack, + More Villagers Compat Datapack, + Wizards Compat Datapack, + Gazebo Compat Datapack, + Paladins & Preists Compat Datapack
++ Dungeon Crawl 2.3.15 - 55.7M
++ Formations Overworld - 11.4M
++ Moog's Voyager Structures - 22.0M - настраивается через датапаки
++ Explorify - Dungeons & Structures - 29.4M - настраивается через конфиг и датапаки
++ Dungeons and Taverns - 15.4M
++ Explorations - 15.7M
++ Galosphere - 12.2M
++ Upgrade Aquatic - 29.1M
++ The Lost Castle - 16.3M
++ Born in Chaos - 10.8M
++ The Graveyard - 27.9M
++ Farmers Structures - 5.0M
++ Hunter's Return 11.7.0 - 25.0M
++ Antlers - The Wendigo - 680K
++ Realm RPG: Sea Dwellers 2.9.9 - 3.2M
+
++ Towns and Towers 1.12 - 45.6M - только добавляет новые структуры, конфиг через .minecraft/config/towns_and_towers
++ ChoiceTheorem's Overhauled Village (CTOV) 3.4.12 - 35.0M - только добавляет новые структуры
++ Savage & Ravage - 28.3M
+
++ Formations Nether - 13.7M
++ Nether Depths Upgrade - 15.7M
++ Stalwart Dungeons - 27.4M, + Stalwart Dungeons Delight
 
 ---Деревенские, NPC--- :
 Guard Villagers - 45.7M
@@ -111,7 +111,7 @@ More Villager Trades - 2.1M
 Village Artifacts - 21.2M
 
 Goblin Traders
-Hunter's Return - 22.8M
++ Hunter's Return 11.7.0 - 22.8M
 + Realm RPG: Quests & Rewards - 832K
 
 ---Мобы--- :
@@ -129,19 +129,17 @@ Hunter's Return - 22.8M
 + Enderman Overhaul 1.0.4 - 17.2M
 + Sons Of Sins - 8.8M, + Sons of Sins: Organ Museum
 + The Graveyard - 27.9M
-+ Thalassophobia - 43.6K
 + Upgrade Aquatic - 29.1M
 + Galosphere - 12.2M
-Zombie Horse Spawn
 
 ---Геймплей, механики--- :
-Quark - 172M
++ Quark 4.0 - 172M, + Quark Oddities, Ascended Quark, + Quark Delight, + Quark x Farmer's Delight Bark Cutting Compat, + Curios Quark Oddities Backpack, + Quark Artifacts
 Tough As Nails - 20.7M
 Nature's Compass
 Explorer's Compass
 + Hourglass - 2.7M
 Cosmetic Armor Reworked
-Waystones
+Waystones, + Xaero's Minimap & World Map - Waystones Compatibility
 Bountiful
 MmmMmmMmmMmm (Target Dummy)
 Sophisticated Backpacks, Lopy's Create Style Sophisticated Backpacks
