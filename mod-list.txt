@@ -1,22 +1,24 @@
 Forge 1.20.1
 
----Libraries--- :
+---Либы, API--- :
 Structure Gel API
 Terrablender
 GeckoLib 3.0 +!
 Citadel
 Zeta
 Appleskin
+Lithostitched
 Cristel Lib
 Bagus Lib
+Blueprint
 + YUNG's API (Forge)
 
----Optimizations--- :
+---Оптимизационные плагины--- :
 Embeddium
 Fast Paintings
 Farsight
 
----Graphics, visuals, icons--- :
+---Графика, визуал, иконки--- :
 Foliage+
 Spryzeen's Bushy warts
 Ore Variants
@@ -32,10 +34,10 @@ Better Chainmail
 Better Maps
 Rain Revamp
 
----Sound--- : 
+---Звук--- : 
 Sound Physics Remastered
 
----Additional Dimensions--- :
+---Дополнительные измерения--- :
 + The Twilight Forest 4.3.2508 - 148.5M, + JAPPA textures, + The Lost Blocks, + Farmer's Cutting: Twilight Forest, + Bosses Resurrection, + Twilight Delight?, + Artifacts compat <-- Twilight Forest no OptiFine support
 
 + Deeper and Darker 1.3.3 - 42.3M, + Deeper and Darker Delight
@@ -46,7 +48,7 @@ Sound Physics Remastered
 
 + The Aether 1.5.2 - 40.6M, + Redux, + Lost Content Addon, + Deep Aether 1.1.4, + Enhanced Extinguishing, + Farmer's Cutting: The Aether
 
----World Gen--- :
+---Генерация мира--- :
 + Biomes O' Plenty 19.0.0.94 - 150M, + Biomes o' Plenty x Farmer's Delight, + Macaw's Biomes O' Plenty, + Farmer's Cutting: Biomes O' Plenty, + Biomes O' Plenty Delight, + Storage Drawers: Biomes O' Plenty Pack?, + Biomes O' Plenty and Create Rose Quartz Compat, + More Chests Variants - Biomes O' Plenty 
 + Geophilic Reforged - 5.8M
 + Windswept! ? - 1.0M
@@ -61,7 +63,7 @@ Sound Physics Remastered
 
 + Quark 4.0 - 172M, + Quark Oddities, Ascended Quark, + Quark Delight, + Quark x Farmer's Delight Bark Cutting Compat, + Curios Quark Oddities Backpack, + Quark Artifacts
 
----Structures--- :
+---Структуры, постройки--- :
 + Repurposed Structures 7.1.15 - 74.6M, + Bountiful Compat Datapack, + Farmer's Delight Compat Mod, + Friends and Foes Compat Datapack, + VillagersPlus Compat Datapack, + More Villagers Compat Datapack, + Wizards Compat Datapack, + Gazebo Compat Datapack, + Paladins & Preists Compat Datapack
 + Dungeon Crawl - 54.4M
 + Formations Overworld - 11.3M
@@ -77,11 +79,10 @@ Sound Physics Remastered
 + Hunter's Return - 25.0M
 + Antlers - The Wendigo - 680K
 
-Better Villages - 16.6M
-Towns and Towers - 35.2M
-ChoiceTheorem's Overhauled Village - 28M
-Dungeons and Taverns - 13M
-Savage & Ravage - 26.1M
++ Towns and Towers - 45.6M - только добавляет новые структуры
++ ChoiceTheorem's Overhauled Village 3.4.12 - 35.0M - только добавляет новые структуры
++ Dungeons and Taverns - 15.4M
++ Savage & Ravage - 28.3M
 
 + Formations Nether - 13.7M
 + Nether Depths Upgrade - 15.7M
@@ -97,7 +98,7 @@ Savage & Ravage - 26.1M
 + YUNG's Bridges - 57.9M
 + YUNG's Extras - 54.3M
 
----Villagers, NPC--- :
+---Деревенские, NPC--- :
 Guard Villagers - 45.7M
 More Villagers - 24.8M
 VillagersPlus - 16.1M
@@ -109,7 +110,7 @@ Village Artifacts - 21.2M
 Goblin Traders
 Hunter's Return - 22.8M
 
----Mobs--- :
+---Мобы--- :
 Alex's Mobs - 77M, Alex's Mobs Interaction, Alex's Tamables, Mobs of Sins: Alex's Mobs Integration
 + Born in Chaos - 7.2M, + Born in Configuration, Born In Chaos Delight, Born in Chaos: Forgotten Content
 Monster Plus - 6.3M
@@ -133,7 +134,7 @@ Galosphere - 12.2M
 Caverns & Chasms 62K
 Zombie Horse Spawn
 
----Gameplay--- :
+---Геймплей, механики--- :
 Quark - 172M
 Tough As Nails - 20.7M
 Nature's Compass
@@ -172,7 +173,7 @@ Enhanced Celestials
 
 Building Gadgets
 
----Items--- :
+---Предметы--- :
 Farmer's Delight, Twilight Forest - Farmer's Delight, Nether's Delight, Deeper and Darker Delight, Blue Skies Delight, Farmer's Cutting: Biomes O' Plenty
 Expanded Delight, Galosphere Delight, Alex's Caves Delight, Graveyard Delight, Rats Delight, Born in Chaos Delight, Miner's Delight, Gobber Delight, Blood Magic Delight, Abnormals Delight, Biomes o' Plenty x Farmer's Delight, Thermal's Delight
 
@@ -189,7 +190,7 @@ Forbidden and Arcanus
 Reliquary Reincarnations
 EvilCraft
 
----Ores--- :
+---Руды--- :
 Geode+, Geode O' Plenty
 More Geodes Reforged
 The Salt
@@ -202,7 +203,7 @@ Gobber
 Potassium & Sulfur's Gunpowder Mod
 Galosphere - 12.2M - Allurite shard, Lumiere shard, Silver Ingot
 
----Magic--- :
+---Магия--- :
 Ars Nouveau - 64.3M, Ars Elemental, Ars Ocultas, Ars Creo, Ars Additions, Ars Omega, Tome of Blood
 Apotheosis, Apotheotic Additions
 Occultism
@@ -210,7 +211,7 @@ Blood Magic
 Hexerei
 Botania
 
----Weapons, Armor--- :
+---Оружие, броня--- :
 Simply Swords
 Spartan Weaponry, Spartan Weaponry: Twilight Forest, Spartan Weaponry: Blue Skies, Spartan Weaponry: Undergarden
 Immersive Armors
@@ -222,7 +223,7 @@ Fantasy Weapons (Medieval Series)
 Born in Chaos - 7.2M
 Galosphere - 12.2M
 
----Decor--- :
+---Декор--- :
 Twigs
 Chipped
 Chisel Chipped Integration
@@ -278,7 +279,7 @@ MC style paintings
 Paintings ++
 Cycle Paintings
 
----Clothes--- :
+---Одежда--- :
 Simple Hats
 Artifacts
 Lucky’s Wardrobe Mod
@@ -301,7 +302,7 @@ Villager Names
 Runelic
 Day Counter
 
----Technologies--- :
+---Технологии--- :
 Create - 117.9M, 
 Create Stuff & Additions - 14.4M, 
 Create Crafts & Additions  - 56.2M, 
