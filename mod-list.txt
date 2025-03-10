@@ -11,9 +11,13 @@ Lithostitched
 Patchouli
 CoFH Core
 GlitchCore
+Mantle
 Cristel Lib
 Curios API
 Bagus Lib
+Chem Lib
+AlchemyLib
+CTM
 Blueprint
 + YUNG's API (Forge)
 
@@ -191,6 +195,7 @@ Reliquary Reincarnations
 EvilCraft
 
 ---Руды--- :
++ Tinkers' Construct - cobalt, ardite
 Geode+, Geode O' Plenty
 More Geodes Reforged
 The Salt
@@ -337,8 +342,8 @@ Create: Dynamic Village - 2.5M ,
 + Thermal Locomotion 11.0.1.19 - 28.0M,
 + Thermal Systeams 1.9.1 - 4.2M,
 
-Tinkers Construct - 167.3M,
++ Tinkers Construct 3.9.2.37 - 168.6M, + Tinkers Thinking ?
 
-Alchemistry - 19.9M,
++ Alchemistry 2.3.4 - 20.2M,
 
-Refined Storage - 111.7M,
++ Refined Storage 1.12.4 - 113.4M - network-based storage system, + Refined Storage Addons
