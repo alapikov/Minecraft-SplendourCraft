@@ -8,6 +8,7 @@ Citadel
 Zeta
 Appleskin
 Lithostitched
+Flywheel
 Patchouli
 CoFH Core
 GlitchCore
@@ -265,7 +266,8 @@ Decoration Delight: Refurbished
 Sophisticated Storage
 Woodworks - 5.5M
 Clayworks - 5.0M
-Storage Drawers, 
+Storage Drawers,
+Builders Crafts & Addition 
 Re:Deco
 More Chests Variants,
 More Furnaces Variants
@@ -309,29 +311,35 @@ Runelic
 Day Counter
 
 ---Технологии--- :
-Create - 117.9M, 
-Create Stuff & Additions - 14.4M, 
-Create Crafts & Additions  - 56.2M, 
-Create: New Age - 10.4M,
-Create: Dreams & Desires - 1.6M,
-Create : Misc & Things - 5.2M,
-Create: Steam Powered - 1.7M,
-Create: Connected - 3.0M,
-Create: Extended Cogwheels - 4.1M, 
++ Create 6.0.2 - 124.1M, 
++ Create Stuff & Additions 2.0.9 - 15.5M, 
++ Create Crafts & Additions 1.3.0  - 58.9M, 
++ Create: New Age 1.1.3 - 11.5M,
++ Create: Dreams & Desires - 2.0M,
++ Create : Misc & Things - 5.5M,
++ Create: Enchantment Industry - 19.8M,
++ Create: Steam Powered 3.0.2 - 2.1M,
++ Create: Copycats+ 2.2.2 - 9.1M,
++ Create: Deco 2.0.2 - 18.4M,
++ Create: Extended Cogwheels - 5.7M, 
++ Create: Ultimate Factory - 761.3K, 
++ Create: Aquatic Ambitions - 63.4K,
++ Create Recycle Everything 1.0.2 - 4.2M,
++ Create: Fishing Bobber Detector 0.1.9 - 1.2M,
++ Create : Teleporters - 2.6M,
++ Create: Vintage Improvements - 728.6K,
++ Create: Oxidized - 604.8K,
++ Create: Alloyed - 3.1M,
++ Create Encased - 2.5M, 
++ Create: Crystal Clear 2.1 - 5.1M,
++ Create: Connected 0.9.4 - 3.6M,
++ Create: Framed - 1.6M,
++ Create: Dynamic Village - 2.5M ,
++ Create: Deepslate Processing - 22.3K,
++ Create: Deepslate Crushing - 25.0K,
++ Create: Automate Everything - 23.5K,
++ Create: Brass Coated ? - 122.3K
 Create Blue Skies Compat - 1.5M, 
-Create: Ultimate Factory - 366,4K, 
-Create: Aquatic Ambitions - 63.4K,
-Create Recycle Everything - 3.8M,
-Create: Fishing Bobber Detector - 1.0M,
-Create : Teleporters - 2.6M,
-Create: Vintage Improvements - 728.6K,
-Create: Oxidized - 604.8K,
-Create: Alloyed - 3.1M,
-Create Encased - 2.5M, 
-Create Deco - 19.6M,
-Create: Crystal Clear - 4.7M,
-Create: Framed - 1.6M,
-Create: Dynamic Village - 2.5M ,
 
 + Thermal Foundation 11.0.6.70 - 148.4M,
 + Thermal Expansion 11.0.1.29 - 136.0M,

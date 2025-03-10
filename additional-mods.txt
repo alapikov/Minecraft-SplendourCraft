@@ -1,3 +1,4 @@
+KubeJS
 Caverns & Chasms - новые руды - Silver and Spinel, много новых мобов, включая враждебных, новые блоки, материалы
 Deeper Oceans
 Abundant Atmosphere
@@ -6,3 +7,10 @@ Thermal Extra
 Immersive Engineering
 Tinkers' Complement
 Refined Storage Large Patterns, Refined Storage: Requestify
+Create Goggles - Adds Helmets with Create Mod Goggle Function and Vanilla Armorstats. If you want to wear a full netherite armor, but also want to see the goggle stats or use your backtank, this is the mod or you!
+Cold Sweat
+Create: Cold Sweat
+Create: Diesel Generators
+Create: Central Kitchen
+Create: Interiors
+Create Questing
