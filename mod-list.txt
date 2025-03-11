@@ -8,6 +8,7 @@ Citadel
 Zeta
 Appleskin
 Lithostitched
+Placebo
 Flywheel
 Patchouli
 CoFH Core
@@ -15,12 +16,14 @@ GlitchCore
 Mantle
 Cristel Lib
 Curios API
+Curios
 Bagus Lib
 Chem Lib
 AlchemyLib
 CTM
 Blueprint
 + YUNG's API (Forge)
++ Apothic Attributes (AttributesLib)
 
 ---Оптимизационные плагины--- :
 Embeddium
@@ -194,6 +197,7 @@ Cyclic
 Forbidden and Arcanus
 Reliquary Reincarnations
 EvilCraft
++ Ender Storage - 112.3M
 
 ---Руды--- :
 + Tinkers' Construct - cobalt, ardite
@@ -210,10 +214,10 @@ Potassium & Sulfur's Gunpowder Mod
 Galosphere - 12.2M - Allurite shard, Lumiere shard, Silver Ingot
 
 ---Магия--- :
-Ars Nouveau - 64.3M, Ars Elemental, Ars Ocultas, Ars Creo, Ars Additions, Ars Omega, Tome of Blood
-Apotheosis, Apotheotic Additions
-Occultism
-Blood Magic
++ Ars Nouveau 4.12.6 - 67.7M - custom spell crafting, magical machines, magical servants, rituals, + Ars Elemental, + Ars Instrumentum, + Ars Artillery, + Ars Additions, + Ars Scalaes, + Ars Ocultas, + Tome of Blood: Rebirth, + Ars Creo, + Ars Nouveau's Flavors & Delight, + Ars EnderStorage ?, + Ars Arsenal ?, + Ars Omega ?,
++ Apotheosis 7.4.6 - 87.5M, + Apotheotic Additions 2.1
++ Occultism 1.141. - 36.0M,
++ Blood Magic 3.3.3-45 - 96.4M, + Blood Smeltery ?
 Hexerei
 Botania
 
