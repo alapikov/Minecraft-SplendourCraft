@@ -94,10 +94,8 @@ Sound Physics Remastered
 + Dungeons and Taverns - 15.4M
 + Explorations - 15.7M
 + Galosphere - 12.2M
-+ Upgrade Aquatic - 29.1M
 + The Lost Castle - 16.3M
 + Born in Chaos - 10.8M
-+ The Graveyard - 27.9M
 + Farmers Structures - 5.0M
 + Hunter's Return 11.7.0 - 25.0M
 + Antlers - The Wendigo - 680K
@@ -354,7 +352,7 @@ Create Blue Skies Compat - 1.5M,
 + Thermal Locomotion 11.0.1.19 - 28.0M,
 + Thermal Systeams 1.9.1 - 4.2M,
 
-+ Tinkers Construct 3.9.2.37 - 168.6M, + Tinkers Thinking ?
++ Tinkers Construct 3.9.2.37 - 168.6M, + Tinkers Thinking
 
 + Alchemistry 2.3.4 - 20.2M,
 
