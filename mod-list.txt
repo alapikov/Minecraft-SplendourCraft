@@ -6,8 +6,8 @@ Forge 1.20.1 - 47.1.3
 + Connector Extras 1.12.2
 Structure Gel API
 Terrablender
-GeckoLib 3.0 +!
-Citadel
++ GeckoLib 4.7
++ Citadel 2.6.1
 + Cloth Config API 11.1.136
 + AzureLib Armor 2.0.14
 Runes
@@ -101,9 +101,10 @@ Sound Physics Remastered
 + YUNG's Bridges - 57.9M
 + YUNG's Extras - 54.3M
 
-+ Repurposed Structures 7.1.15 - 74.6M - не конфликтует с YUNG's структурами, оба мода продолжают спавнить структуры, можно настраивать через датапаки, + Bountiful Compat Datapack, + Farmer's Delight Compat Mod, + Friends and Foes Compat Datapack, + VillagersPlus Compat Datapack, + More Villagers Compat Datapack, + Wizards Compat Datapack, + Gazebo Compat Datapack, + Paladins & Preists Compat Datapack
++ Repurposed Structures 7.1.15 - 74.6M - не конфликтует с YUNG's структурами, оба мода продолжают спавнить структуры, можно настраивать через датапаки, + Bountiful Compat Datapack, + Farmer's Delight Compat Mod, + Chef's Delight Compat, + Friends and Foes Compat Datapack, + VillagersPlus Compat Datapack, + More Villagers Compat Datapack, + Wizards Compat Datapack, + Paladins & Preists Compat, + Gazebo Compat Datapack,
 + Dungeon Crawl 2.3.15 - 55.7M
 + Formations Overworld - 11.4M
++ Hexerei 0.4.2.2 - 20.5M
 + Moog's Voyager Structures - 22.0M - настраивается через датапаки
 + Explorify - Dungeons & Structures - 29.4M - настраивается через конфиг и датапаки
 + Dungeons and Taverns - 15.4M
@@ -120,8 +121,6 @@ Sound Physics Remastered
 + Towns and Towers 1.12 - 45.6M - только добавляет новые структуры, конфиг через .minecraft/config/towns_and_towers
 + ChoiceTheorem's Overhauled Village (CTOV) 3.4.12 - 35.0M - только добавляет новые структуры
 + Savage & Ravage - 28.3M
-
-+ Hexerei 0.4.2.2 - 20.5M
 
 + Formations Nether - 13.7M
 + Nether Depths Upgrade - 15.7M
@@ -141,8 +140,8 @@ Goblin Traders
 + Realm RPG: Quests & Rewards - 832K
 
 ---Мобы--- :
-+ Alex's Mobs 1.22.9 - 91.7M, + Alex's Mobs Interaction 5.0, + Mobs of Sins: Alex's Mobs Integration 0.2
-+ Born in Chaos 1.6.3 - 7.2M, + Born in Configuration, Born In Chaos Delight, Born in Chaos: Forgotten Content
++ Alex's Mobs 1.22.9 - 91.7M, + Alex's Mobs Interaction 5.0, + Mobs of Sins: Alex's Mobs Integration 0.2, + Alex's Delight 1.5
++ Born in Chaos 1.6.3 - 7.2M, + Born in Configuration, + Born In Chaos Delight 1.0.3.1, + Forgotten Content 1.1.1
 + Monster Plus 1.1.6.1 - 7.7M
 + Friends & Foes 3.0.7 - 20.7M, + Flowery Mooblooms 2.0.2, + Beekeeper Hut 2.0.1, + Friends&Foes Delight 2.0.2.1
 + Critters and Companions 2.2.2 - 7.6M
@@ -150,7 +149,6 @@ Goblin Traders
 + Realm RPG: Sea Dwellers 2.9.9 - 3.2M
 + Realm RPG: Imps & Demons 0.9.0 - 1.2M
 + Realm RPG: Pots & Mimics 1.0.2 - 2.6M
-+ Rats 8.1.3 - 18.8M, + Rats Delight 1.1.0.1
 + Creeper Overhaul 3.0.2 - 46.7M
 + Enderman Overhaul 1.0.4 - 17.2M
 + Sons Of Sins - 8.8M, + Sons of Sins: Organ Museum
@@ -200,9 +198,8 @@ Enhanced Celestials
 
 Building Gadgets
 
----Предметы--- :
-Farmer's Delight, Twilight Forest - Farmer's Delight, Nether's Delight, Deeper and Darker Delight, Blue Skies Delight, Farmer's Cutting: Biomes O' Plenty
-Expanded Delight, Galosphere Delight, Alex's Caves Delight, Graveyard Delight, Rats Delight, Born in Chaos Delight, Miner's Delight, Gobber Delight, Blood Magic Delight, Abnormals Delight, Biomes o' Plenty x Farmer's Delight, Thermal's Delight
+---Предметы, вещи--- :
++ Farmer's Delight 1.2.7 - 117.7M, Chef's Delight 1.0.3 - 11.7M - A configuration file is generated in the Minecraft config folder with the name "chefsdelight-common.toml" allowing to change the number of houses that are generated in the villages
 
 Farmer's Respite - 17.7M, Respite Creators
 
