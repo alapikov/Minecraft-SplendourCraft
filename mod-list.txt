@@ -8,8 +8,11 @@ Structure Gel API
 Terrablender
 + GeckoLib 4.7
 + Citadel 2.6.1
++ Resourceful Lib 2.1.29
++ Athena 3.1.2
 + Cloth Config API 11.1.136
 + AzureLib Armor 2.0.14
++ Moonlight Lib 2.13.79
 Runes
 Spell Engine
 Zeta
@@ -29,6 +32,7 @@ Chem Lib
 AlchemyLib
 CTM
 Blueprint
++ ConnectedTexturesMod 1.1.10
 + playerAnimator 1.0.2
 + YUNG's API (Forge)
 + Apothic Attributes (AttributesLib)
@@ -39,6 +43,11 @@ Blueprint
 + Adaptive Tooltips 1.3.0
 + Ranged Weapon API 1.1.4 Fabric
 + Necronomicon 1.6.0 
+
+---Патчи--- :
++ Every Compat (Wood Good) 2.7.24 - 27.2M,
++ Every Compat (Stone Zone) 2.7.14 - 28.7K,
++ Vertical Slabs Compat - 7.1M - fill in mod compatibility gaps by adding Quarks vertical slabs to all blocks that have a slab.
 
 ---Оптимизационные плагины--- :
 Embeddium
@@ -165,7 +174,6 @@ Explorer's Compass
 Cosmetic Armor Reworked
 Waystones, + Xaero's Minimap & World Map - Waystones Compatibility
 Bountiful
-MmmMmmMmmMmm (Target Dummy)
 Sophisticated Backpacks, Lopy's Create Style Sophisticated Backpacks
 Cognition
 Paragliders
@@ -178,6 +186,7 @@ Loot Integrations - 33.9M
 + Bad Mobs - 36.7M
 + In Control! - 79.5M
 + Spawn Balance Utility - 3.4M
++ Haunted Harvest 3.2.0 - 1.4M,
 
 Better Combat, Better Combat x Apotheosis Compat
 Personality - 16.5M
@@ -206,15 +215,17 @@ Farmer's Respite - 17.7M, Respite Creators
 Village Artifacts - 21.2M
 Mystical Oak Tree
 Corail Woodcutter
-Alchemistry
 Aquaculture 2
 Silent Gear
 Cyclic
 Forbidden and Arcanus
 Reliquary Reincarnations
 EvilCraft
-+ Ender Storage - 112.3M
-+ Hexerei 0.4.2.2 - 20.5M
++ Ender Storage - 112.3M,
++ Hexerei 0.4.2.2 - 20.5M,
++ Haunted Harvest 3.2.0 - 1.4M,
++ You've Goat to be Kidding Me! 1.3.4 - 1.2M,
++ MmmMmmMmmMmm (Target Dummy) 2.0.6 - 78.5M,
 
 ---Руды--- :
 + Tinkers' Construct - cobalt, ardite
@@ -254,19 +265,12 @@ Born in Chaos - 7.2M
 Galosphere - 12.2M
 
 ---Декор--- :
-Twigs
-Chipped
-Chisel Chipped Integration
-Rechiseled
-Rechiseled: Chipped
-Rechiseled: Fans
-Rechiseled: AE2
-Rechiseled: Create
-Variant Chiseled Bookshelves
-Chisels & Bits
-Additional Placements
-Abundant Atmosphere?
-Consistency+
++ Chipped 3.0.7 65.6M, + Chisel Chipped Integration - adds some blocks to the chipped mod that existed in the old chisel mod.
++ Twigs 3.1.0 - 40.0M
++ Rechiseled 1.1.6 - 31.6M, + Rechiseled: Chipped - let's you craft all of the various blocks from the Chipped mod using the Chisel from the Rechiseled mod, to have a handy all-in-one tool for creating a ton of decorative blocks!, + Rechiseled: Create, + Variant Chiseled Bookshelves,
++ Chisels & Bits 1.4.148 - 124.7M,
++ Consistency+ ? 0.5.2 - 2.0M,
++ Additional Placements 2.2.2 - 505K
 
 Macaw's Bridges
 Macaw's Bridges - Biomes O' Plenty
@@ -281,11 +285,10 @@ Macaw's Lights and Lamps
 Macaw's Paths and Pavings
 Macaw's Quark
 
-Supplementaries
-Supplementaries Squared
-Handcrafted
-Beautify!
-Decorative Blocks
++ Supplementaries 3.1.20 - 124.5M, + Supplementaries Squared 1.1.21 - 14.4M, + Apothic Supplementaries - Enchanting - adds Apotheosis Enchanting stats to various decorative items from Supplementaries
++ Handcrafted 3.0.6 - 48.0M - over 250 furniture pieces, all the furniture you could ever need to make your blocky house a home!,
++ Beautify! 2.0.2 - 7.2M
++ Decorative Blocks 4.1.3 - 61.0M - добавляет немного декор блоков / предметов, + Decorative Winter - 4.3M - еще добавляет зимние предметы, + Decorative Blocks Compat ?, + Decorative Blocks modded compat
 Decoration Delight: Refurbished
 Sophisticated Storage
 Woodworks - 5.5M
@@ -293,15 +296,16 @@ Clayworks - 5.0M
 Storage Drawers,
 Builders Crafts & Addition 
 Re:Deco
++ More Beautiful Torches 3.0.0 - 2.4M
 More Chests Variants,
 More Furnaces Variants
 BiblioCraft, BiblioCraft: BiblioWoods Biomes O'Plenty Edition
 Quark - 172M
 Caverns & Chasms - 62K
 
-Storage Labels
-Advancement Frames
-Amendments
++ Storage Labels 2.0.0 - 3.8M,
++ Advancement Frames 2.2.8 - 3.1M,
++ Amendments 1.2.19 - 28.0M,
 Botany Pots
 Botany Trees
 
@@ -322,6 +326,7 @@ Controlling
 Jade
 Mouse Tweaks - 277M
 Not Enough Animations
++ Just Enough Effect Descriptions 2.2.5 - 16.0M
 Villager Names
 Better Third Person
 Enchantment Descriptions
@@ -333,6 +338,7 @@ Pick Up Notifier
 Villager Names
 Runelic
 Day Counter
++ Additional Placements 2.2.2 - 505K
 
 ---Технологии--- :
 + Create 6.0.2 - 124.1M, 
