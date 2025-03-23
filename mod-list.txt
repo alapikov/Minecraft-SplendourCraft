@@ -6,8 +6,10 @@ Forge 1.20.1 - 47.1.3
 + Connector Extras 1.12.2
 Structure Gel API
 Terrablender
++ Bookshelf 20.2.13
 + GeckoLib 4.7
 + Citadel 2.6.1
++ Collective 7.94
 + Resourceful Lib 2.1.29
 + Athena 3.1.2
 + Cloth Config API 11.1.136
@@ -51,7 +53,7 @@ Blueprint
 
 ---Оптимизационные плагины--- :
 Embeddium
-Fast Paintings
++ Fast Paintings 1.2.7
 Farsight
 
 ---Графика, визуал, иконки--- :
@@ -182,6 +184,7 @@ Chest Transporter
 Berry Good - 4.6M
 Incubation - 6.5M
 Boatload - 12.3M
++ Dis-Enchanting Table 4.0.0 - 4.8M - добавляет стол для взятия зачарования с вещи
 Loot Integrations - 33.9M
 + Bad Mobs - 36.7M
 + In Control! - 79.5M
@@ -249,6 +252,7 @@ Galosphere - 12.2M - Allurite shard, Lumiere shard, Silver Ingot
 + Blood Magic 3.3.3-45 - 96.4M, + Blood Smeltery ?,
 + Nature's Aura - 33.3M,
 + Eidolon 0.3.8.15 - 5.4M,
++ Dis-Enchanting Table 4.0.0 - 4.8M - добавляет стол для взятия зачарования с вещи
 
 + Wizards (RPG Series) 1.4.1 Fabric - 9.7M wizards towers генерируются в деревнях, The spawn weight and limit are configureable in config/wizards/villages.json., + Repurposed Structures Compat Datapack - towers генерятся в RS деревнях
 
@@ -265,12 +269,15 @@ Born in Chaos - 7.2M
 Galosphere - 12.2M
 
 ---Декор--- :
-+ Chipped 3.0.7 65.6M, + Chisel Chipped Integration - adds some blocks to the chipped mod that existed in the old chisel mod.
-+ Twigs 3.1.0 - 40.0M
-+ Rechiseled 1.1.6 - 31.6M, + Rechiseled: Chipped - let's you craft all of the various blocks from the Chipped mod using the Chisel from the Rechiseled mod, to have a handy all-in-one tool for creating a ton of decorative blocks!, + Rechiseled: Create, + Variant Chiseled Bookshelves,
-+ Chisels & Bits 1.4.148 - 124.7M,
-+ Consistency+ ? 0.5.2 - 2.0M,
-+ Additional Placements 2.2.2 - 505K
++ Chipped 3.0.7 - 65.9M - тысячи декор блоков всех видов, делаются через специальные workbench-столы, + Chisel Chipped Integration - adds some blocks to the chipped mod that existed in the old chisel mod., + Reintegrated: Chipped - 27K - добавляет Chipped блоки в генерацию мира
++ Rechiseled 1.1.6 - 31.8M - allows you to exchange between various decorative blocks with connected textures! Rechiseled adds over 600+ decorative variants of vanilla blocks, + Rechiseled: Chipped - let's you craft all of the various blocks from the Chipped mod using the Chisel from the Rechiseled mod, to have a handy all-in-one tool for creating a ton of decorative blocks!, + Rechiseled: Create - adds chiseling recipes for the various existing decorative blocks in Create as well as adding 100+ new variants of blocks in Create, 
++ Twigs 3.1.0 - 40.0M - новые материалы, декор блоки, мебель и предметы
++ Chisels & Bits 1.4.148 - 127.1M,
++ Clayworks 3.0.4 - 6.1M
++ Woodworks 3.0.2 - 7.7M
++ Variant Chiseled Bookshelves 1.0M - добавляет книжные полки для всех пород дерева, + Chiseled Bookshelf Visualizer - 411K
++ More Beautiful Bookshelves 2.1.1 - 503K 
++ Additional Placements 2.2.2 - 505K - добавляет возможность ставить лестницы и слабы во всех положениях
 
 Macaw's Bridges
 Macaw's Bridges - Biomes O' Plenty
@@ -285,40 +292,38 @@ Macaw's Lights and Lamps
 Macaw's Paths and Pavings
 Macaw's Quark
 
-+ Supplementaries 3.1.20 - 124.5M, + Supplementaries Squared 1.1.21 - 14.4M, + Apothic Supplementaries - Enchanting - adds Apotheosis Enchanting stats to various decorative items from Supplementaries
++ Supplementaries 3.1.20 - 124.9M - новые декор предметы + геймплейные твики, + Supplementaries Squared 1.1.21 - 14.4M, + Apothic Supplementaries - Enchanting - adds Apotheosis Enchanting stats to various decorative items from Supplementaries
 + Handcrafted 3.0.6 - 48.0M - over 250 furniture pieces, all the furniture you could ever need to make your blocky house a home!,
-+ Beautify! 2.0.2 - 7.2M
 + Decorative Blocks 4.1.3 - 61.0M - добавляет немного декор блоков / предметов, + Decorative Winter - 4.3M - еще добавляет зимние предметы, + Decorative Blocks Compat ?, + Decorative Blocks modded compat
-Decoration Delight: Refurbished
-Sophisticated Storage
-Woodworks - 5.5M
-Clayworks - 5.0M
-Storage Drawers,
-Builders Crafts & Addition 
-Re:Deco
++ Beautify! 2.0.2 - 7.2M - hanging pots, book stack, picture frame, жалюзи, висячая лоза, канделябры
++ Decoration Delight: Refurbished - 1.8M - добавляет немного блоков для декора кухни
++ Storage Delight 25.03.09 - 4.7M - drawers, bookshelves, cabinets
++ Re:Deco 1.14.1 - 696K - мебель, предметы
++ Sophisticated Storage 1.3.9.1075 - 35.0M - introduces multiple tiers of Barrels, Chests, and Shulker Boxes, offering extensive customization and functionality., + Sophisticated Storage in Motion
++ Storage Drawers 12.9.13 - 191.2M,
 + More Beautiful Torches 3.0.0 - 2.4M
-More Chests Variants,
-More Furnaces Variants
-BiblioCraft, BiblioCraft: BiblioWoods Biomes O'Plenty Edition
-Quark - 172M
-Caverns & Chasms - 62K
++ More Furnaces Variants 1.0.2 - 121K,
++ Variant Fletching Tables (Fabric) 1.2.1 - 792K
++ Variant Crafting Tables (Fabric) 6.4 - 4.4M
++ Variant Composters (Fabric) 2.4.1 - 1.1M,
++ Variant Beehives (Fabric) 1.2 - 794K,
++ Variant Lecterns (Fabric) 1.0 - 682K,
++ Variant Lanterns (Fabric) 1.0.4 - 682K,
++ Quark - 172M
 
-+ Storage Labels 2.0.0 - 3.8M,
++ Storage Labels 2.0.0 - 3.8M - лейблы с надписями, можно клеить на все,
 + Advancement Frames 2.2.8 - 3.1M,
-+ Amendments 1.2.19 - 28.0M,
-Botany Pots
-Botany Trees
++ Amendments 1.2.19 - 28.3M,
++ Botany Pots 13.0.40 - 48.0M, + Undergarden Botany Pots Compats
++ Botany Trees 9.0.18 - 33.5M,
 
-Dark Paintings
-Leon's Dungeons Paintings
-MC style paintings
-Paintings ++
-Cycle Paintings
-
----Одежда--- :
-Simple Hats
-Artifacts
-Lucky’s Wardrobe Mod
++ Immersive Paintings 0.6.7 - 7.9M,
++ Cycle Paintings 4.1 - 3.1M,
++ Dark Paintings 17.0.4 - 37.9M,
++ Leon's Dungeons Paintings 2.0.1 - 70K,
++ Macaw's Paintings 1.0.5 - 25.7M,
++ Too Many Paintings! 1.0.2 - 191K,
++ MC style paintings - 443K,
  
 ---UI, UX--- :
 Better Advancements
@@ -338,7 +343,10 @@ Pick Up Notifier
 Villager Names
 Runelic
 Day Counter
++ Supplementaries 3.1.20 - 124.9M
++ Amendments 1.2.19 - 28.3M,
 + Additional Placements 2.2.2 - 505K
++ Chiseled Bookshelf Visualizer - 411K
 
 ---Технологии--- :
 + Create 6.0.2 - 124.1M, 
@@ -346,7 +354,7 @@ Day Counter
 + Create Crafts & Additions 1.3.0  - 58.9M, 
 + Create: New Age 1.1.3 - 11.5M,
 + Create: Dreams & Desires - 2.0M,
-+ Create : Misc & Things - 5.5M,
++ Create: Misc & Things - 5.5M,
 + Create: Enchantment Industry - 19.8M,
 + Create: Steam Powered 3.0.2 - 2.1M,
 + Create: Copycats+ 2.2.2 - 9.1M,
@@ -356,7 +364,7 @@ Day Counter
 + Create: Aquatic Ambitions - 63.4K,
 + Create Recycle Everything 1.0.2 - 4.2M,
 + Create: Fishing Bobber Detector 0.1.9 - 1.2M,
-+ Create : Teleporters - 2.6M,
++ Create: Teleporters - 2.6M,
 + Create: Vintage Improvements - 728.6K,
 + Create: Oxidized - 604.8K,
 + Create: Alloyed - 3.1M,
